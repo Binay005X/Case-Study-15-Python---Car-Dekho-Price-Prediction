@@ -1,6 +1,6 @@
 # Case-Study-15-Python---Car-Dekho-Price-Prediction
 
-# 🚗 Project Overview – Used Car Price Prediction
+# 🚗 Project Overview 
 
 The used car market in India is highly dynamic, with prices fluctuating based on several factors such as car make, model, mileage, age, fuel type, transmission, condition, and market demand. This variability makes it challenging for sellers to set the right price and for buyers to assess whether a listed price is fair.
 
